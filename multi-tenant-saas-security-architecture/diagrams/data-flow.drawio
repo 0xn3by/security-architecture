@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="Electron">
   <diagram name="Page-1" id="dpJXbhI8_vDMnkEsPLtn">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1260" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
         <mxCell id="8Yh9cE1AEstAkaqE3Blh-2" edge="1" parent="1" source="e5Yis-1sEVc9V-r2jv-L-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="8Yh9cE1AEstAkaqE3Blh-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e5Yis-1sEVc9V-r2jv-L-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="admin/support access" vertex="1">
+        <mxCell id="e5Yis-1sEVc9V-r2jv-L-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;admin/support access&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="120" x="305" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="e5Yis-1sEVc9V-r2jv-L-69" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
