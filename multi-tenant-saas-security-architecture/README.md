@@ -1,6 +1,6 @@
 # Multi-Tenant SaaS Security Architecture
 
-<p align="center">
+<p>
   An implementation-neutral security reference for a shared-cloud B2B SaaS platform,<br>
   with tenant-isolation threats traced to requirements, controls, tests, and operations.
 </p>
