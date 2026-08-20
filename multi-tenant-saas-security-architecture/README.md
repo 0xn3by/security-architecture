@@ -5,7 +5,7 @@
   with tenant-isolation threats traced to requirements, controls, tests, and operations.
 </p>
 
-<p align="center">
+<p>
   <a href="#scope"><img alt="Artifact: security architecture" src="https://img.shields.io/badge/artifact-security%20architecture-0B7285"></a>
   <a href="docs/threat-model/03-stride-analysis.md"><img alt="Threat model: STRIDE" src="https://img.shields.io/badge/threat%20model-STRIDE-6F42C1"></a>
   <a href="docs/architecture/05-security-requirements.md"><img alt="Security requirements: 49" src="https://img.shields.io/badge/security%20requirements-49-1F6FEB"></a>
